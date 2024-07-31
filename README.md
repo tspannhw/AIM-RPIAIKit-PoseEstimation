@@ -31,7 +31,17 @@ https://github.com/tspannhw/AIM-RPIAIKit
 https://medium.com/@tspann/unstructured-data-processing-with-a-raspberry-pi-ai-kit-c959dd7fff47
 
 
+#### References
 
+You can export your data from your local Milvus Lite and import it to the cloud or another Milvus Cluster.
+
+* https://docs.zilliz.com/docs/byoc/import-data
+
+* https://milvus.io/api-reference/pymilvus/v2.4.x/ORM/utility/do_bulk_insert.md
+
+* https://github.com/milvus-io/milvus-lite
+
+  
 #### Contact Us
 
 Get Milvused!  [https://milvus.io/](https://milvus.io/)
